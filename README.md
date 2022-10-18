@@ -1,3 +1,3 @@
 # change-shape-and-color
 
-the usr ccan change the shape as well and the colour
+the usr can change the shape as well and the color
