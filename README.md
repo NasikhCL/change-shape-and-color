@@ -1,3 +1,6 @@
 # change-shape-and-color
 
-the usr can change the shape as well and the color
+hosted Link : https://nasikhcl.github.io/change-shape-and-color/
+
+A Basic vanilla javascript project
+the user can change the shape as well and the color raandomly on clicking the buttons
